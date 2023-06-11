@@ -54,9 +54,7 @@ const AddTransaction = () => {
             />
           </div>
         </div>
-        {/* <button className="transaction" type="submit">
-          Add Transaction
-        </button> */}
+
         <button class="button"  type="submit">
         Add Transaction
          </button>

@@ -10,6 +10,7 @@ function App() {
   return (
     <GlobalProvider className="app">
     <div className="main">
+      <br/>
     <div className="container">
      <Header />
      </div>
